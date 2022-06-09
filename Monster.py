@@ -1,6 +1,5 @@
 '''
 Name: George Liu
-Current Date: 4/20/18
 '''
 class Monster():
     def __init__(self,n='default',t='rock',hp=100):
