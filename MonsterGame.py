@@ -1,6 +1,5 @@
 '''
 Name: George Liu
-Current Date: 4/20/18
 
 '''
 
